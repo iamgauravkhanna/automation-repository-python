@@ -1,0 +1,3 @@
+c:\python34\scripts\pip.exe install selenium
+
+c:\python34\scripts\pip.exe install selenium --upgrade

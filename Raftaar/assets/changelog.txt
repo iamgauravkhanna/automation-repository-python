@@ -1,0 +1,26 @@
+Raftaar_Version_0.1
+
+- Creation of WebPage class which contains all methods that support webdriver commands. 
+- Generating a global hashmap to store Variables
+- Introducing Flag - skip which will skip test step
+- Development of Java Utilities to create random strings
+- Development of Excel Utilities to read and write excel
+
+Upcoming Features
+
+- XML Utilities
+- Reporting
+- Iterations 
+- DB Utilities
+- Grid
+- Jenkins Setup
+- Dashboard
+- TestNG
+- Ant
+
+Components of Good Framework :
+
+- Perfect Locators
+- Method Re-usability
+- Best Reporting
+- Full Business Coverage
