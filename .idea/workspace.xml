@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="a4808a47-2eda-4f4f-9362-1d4dec35193a" name="Default" comment="">
+    <list default="true" readonly="true" id="a4808a47-2eda-4f4f-9362-1d4dec35193a" name="Default" comment="Updates...">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="automationrepositorypython.iws" />
@@ -123,6 +123,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
