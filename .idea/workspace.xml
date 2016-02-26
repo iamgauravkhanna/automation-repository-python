@@ -2,254 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="a4808a47-2eda-4f4f-9362-1d4dec35193a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter05/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter06/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter07/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/steps/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/chapter01/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/binary.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/husserl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/kant.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/kgp.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/kgp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/russiansample.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/stderr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/stdout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/template.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/thanks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp/toolbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/BaseHTMLProcessor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/Grv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/HandlingFiles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/HelloWorld.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/IfElse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/Loops.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/Strings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/Test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/Training.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/apihelper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/apihelpertest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/argecho.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/autosize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/builddialectexamples.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/colorize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/dialect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/fibonacci.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/fileinfo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/fileinfo_fromdict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/firstScript.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/fullpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/kgptest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/makerealworddoc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/odbchelper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/odbchelpertest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/openanything.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/parsephone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/piglatin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/plural.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/pluraltest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/pyfontify.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/python_org_search.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/random.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/regression.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/roman.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/romantest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/script1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/search.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/soundex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/soundextest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/statsout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/unicode2koi8r.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/urllister.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/Config.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/DoubleClickDemo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/DragDropDemo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/Help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/OnlineChat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/VisitUs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages/test-static-05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage1/plural1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage1/pluraltest1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage2/plural2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage2/pluraltest2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage3/plural3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage3/pluraltest3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage4/plural4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage4/pluraltest4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage5/plural5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage5/pluraltest5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage6/plural6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage6/pluraltest6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage1/roman1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage1/romantest1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage2/roman2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage2/romantest2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage3/roman3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage3/romantest3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage4/roman4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage4/romantest4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage5/roman5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage5/romantest5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage6/roman61.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage6/roman62.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage6/romantest61.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage6/romantest62.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage7/roman71.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage7/roman72.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage7/romantest71.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage7/romantest72.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/roman81.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/roman82.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/roman83.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/romantest81.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/romantest82.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8/romantest83.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage9/roman9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage9/romantest9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1/soundex1a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1/soundex1b.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1/soundex1c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1/soundex1d.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1/soundex1e.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage2/soundex2a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage2/soundex2b.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage2/soundex2c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage3/soundex3a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage3/soundex3b.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage3/soundex3c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage3/soundex3d.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage4/soundex4a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage4/soundex4b.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage4/soundex4c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage4/soundex4d.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/kgp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/others/plural-rules.en" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/pages" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage5/rules.en" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/plural/stage6/rules.en" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/roman/stage9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Learning_Python/soundex/stage4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/Webdriver_Scripts.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Webdriver_Scripts/.idea/scopes" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter01/searchproducts.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter01/searchproducts_with_chrome.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts_with_chrome.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter01/searchproducts_with_ie.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts_with_ie.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/HTMLTestRunner.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/HTMLTestRunner.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/homepagetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/homepagetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/searchtests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/searchtests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/searchtests_with_class_methods.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/searchtests_with_class_methods.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/smoketests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/smoketests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02/smoketests_with_html_report.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02/smoketests_with_html_report.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter03/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter03/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter03/homepagetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter03/homepagetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04/comparetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04/comparetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04/homepagetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04/homepagetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04/navigation_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04/navigation_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04/register_new_user.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04/register_new_user.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter05/comparetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter05/comparetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter05/explicit_wait_tests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter05/explicit_wait_tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter05/searchtest.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter05/searchtest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter06/grid_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter06/grid_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter06/remote_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter06/remote_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter06/sauce_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter06/sauce_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter07/android_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter07/android_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter07/iphone_sauce_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter07/iphone_sauce_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter07/iphone_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter07/iphone_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests/search_csv_ddt.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/search_csv_ddt.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests/search_ddt.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/search_ddt.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests/search_excel_ddt.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/search_excel_ddt.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/base/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/base/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/base/basetestcase.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/base/basetestcase.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages/base.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages/base.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages/homepage.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages/homepage.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages/product.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages/product.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages/search.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages/search.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/searchtest.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/searchtest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/cookie_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/cookie_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/double_click_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/double_click_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/drag_and_drop_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/drag_and_drop_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/execute_javascript_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/execute_javascript_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/frame_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/frame_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/hotkey_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/hotkey_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/popup_window_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/popup_window_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/screenshot_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/screenshot_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/search_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/search_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09/tooltip_test.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09/tooltip_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/environment.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/environment.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/steps/search_steps.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/steps/search_steps.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/smoketests/__init__.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/smoketests/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/smoketests/homepagetests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/smoketests/homepagetests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/smoketests/searchtests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/smoketests/searchtests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/smoketests/smoketests.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/smoketests/smoketests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testRunner.py" afterPath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testRunner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webdriver_Scripts/BasicScript.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/BasicScript.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter01" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter01" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter02" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter02" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter03" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter03" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter04" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter04" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter05" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter05" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter06" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter06" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter07" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter07" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests/TestData.xlsx" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/TestData.xlsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/datadriventests/testdata.csv" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/datadriventests/testdata.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/base" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/base" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter08/pageobjects/pages" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter08/pageobjects/pages" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter09" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter09" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/chromedriver.exe" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/chromedriver.exe" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/features" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/features" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/features/search (2).feature" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/features/search (2).feature" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/features/search.feature" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/features/search.feature" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/bdd/steps" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/bdd/steps" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning_Python/chapter10/smoketests" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter10/smoketests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" afterPath="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" />
     </list>
     <ignored path="automationrepositorypython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -390,26 +144,7 @@
       <recent name="C:\Python\automationrepositorypython\Raftaar" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in homepagetests">
-    <configuration default="false" name="testDriver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="automationrepositorypython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testDriver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.BreakStatement1">
     <configuration default="false" name="testRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,6 +218,23 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BreakStatement1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="automationrepositorypython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -608,19 +360,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.testDriver" />
-      <item index="1" class="java.lang.String" itemvalue="Python.testRunner" />
-      <item index="2" class="java.lang.String" itemvalue="Python.searchproducts" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BasicScript2" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
+      <item index="0" class="java.lang.String" itemvalue="Python.testRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Python.searchproducts" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BasicScript2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BreakStatement1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BasicScript2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.searchproducts" />
-        <item index="3" class="java.lang.String" itemvalue="Python.testRunner" />
-        <item index="4" class="java.lang.String" itemvalue="Python.testDriver" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BreakStatement1" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BasicScript2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.searchproducts" />
+        <item index="4" class="java.lang.String" itemvalue="Python.testRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -655,6 +407,13 @@
       <option name="number" value="Default" />
       <updated>1456411395036</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updates...">
+      <created>1456501752337</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456501752337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -673,22 +432,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1724907" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1724907" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5026022" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49739778" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.49739778" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49739778" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1724907" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22497308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
