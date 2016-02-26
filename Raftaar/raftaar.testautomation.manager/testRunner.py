@@ -1,6 +1,6 @@
 __author__ = 'Gaurav.Khanna'
 
-from Raftaar.testDriver.testDriver import testDriver
+from Raftaar.testDriver.testDriver
 
 class TestRunner:
    def runTestCase(self,test_case_id):
