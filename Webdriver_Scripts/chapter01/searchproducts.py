@@ -21,12 +21,12 @@ search_field.submit()
 products = driver.find_elements_by_xpath("//h2[@class='product-name']/a")
 
 # get the number of anchor elements found
-print "Found " + str(len(products)) + " products:"
+print("Found " + str(len(products)) + " products:")
 
 # iterate through each anchor element and
 # print the text that is name of the product
 for product in products:
-    print product.text
+    print(product.text)
 
 # close the browser window
 driver.quit()

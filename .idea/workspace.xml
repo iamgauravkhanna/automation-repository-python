@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="a4808a47-2eda-4f4f-9362-1d4dec35193a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Raftaar/testcases/testCase001.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Raftaar/lib" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testDriver.py" afterPath="$PROJECT_DIR$/Raftaar/manager/testDriver.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testRunner.py" afterPath="$PROJECT_DIR$/Raftaar/manager/testRunner.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.testcases/testCase001.py" afterPath="$PROJECT_DIR$/Raftaar/testcases/UITests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.utilities/ExcelUtils.py" afterPath="$PROJECT_DIR$/Raftaar/utilities/ExcelUtils.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.utilities/WebPage.py" afterPath="$PROJECT_DIR$/Raftaar/utilities/WebPage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" afterPath="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Learning_Python/Class.py" afterPath="$PROJECT_DIR$/Learning_Python/Class.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py" afterPath="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager" afterPath="$PROJECT_DIR$/Raftaar/manager" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.reporting" afterPath="$PROJECT_DIR$/Raftaar/reporting" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.testcases" afterPath="$PROJECT_DIR$/Raftaar/testcases" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Raftaar/raftaar.testautomation.utilities" afterPath="$PROJECT_DIR$/Raftaar/utilities" />
     </list>
     <ignored path="automationrepositorypython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,18 +37,7 @@
     <favorites_list name="automationrepositorypython" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BreakStatement1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning_Python/BreakStatement1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26631853">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +54,8 @@
         <option value="$PROJECT_DIR$/Webdriver_Scripts/BasicScript.py" />
         <option value="$PROJECT_DIR$/Learning_Python/chapter01/searchproducts.py" />
         <option value="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" />
+        <option value="$PROJECT_DIR$/Learning_Python/Class.py" />
+        <option value="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py" />
       </list>
     </option>
   </component>
@@ -120,7 +124,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Learning_Python" />
+              <option name="myItemId" value="Raftaar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -144,43 +148,7 @@
       <recent name="C:\Python\automationrepositorypython\Raftaar" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BreakStatement1">
-    <configuration default="false" name="testRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="automationrepositorypython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testRunner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="searchproducts" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_Python/chapter01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="automationrepositorypython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_Python/chapter01/searchproducts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.searchproducts (1)">
     <configuration default="false" name="BasicScript2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,6 +201,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="automationrepositorypython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_Python/BreakStatement1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="automationrepositorypython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_Python/Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="searchproducts (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Webdriver_Scripts/chapter01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="automationrepositorypython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -360,19 +362,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.testRunner" />
-      <item index="1" class="java.lang.String" itemvalue="Python.searchproducts" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BasicScript2" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BreakStatement1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.BasicScript2" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BreakStatement1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.searchproducts (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BreakStatement1" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BasicScript2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.searchproducts" />
-        <item index="4" class="java.lang.String" itemvalue="Python.testRunner" />
+        <item index="0" class="java.lang.String" itemvalue="Python.searchproducts (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BreakStatement1" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in homepagetests" />
+        <item index="4" class="java.lang.String" itemvalue="Python.BasicScript2" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +415,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456501752337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates...">
+      <created>1456501777443</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456501777443</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -434,16 +442,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1724907" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19256505" sideWeight="0.49348533" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5026022" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5055762" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49739778" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4959108" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49739778" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.4944238" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1724907" sideWeight="0.50651467" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22497308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -519,14 +527,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testDriver.py">
+    <entry file="file://$PROJECT_DIR$/Raftaar/manager/testDriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2857143">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Raftaar/raftaar.testautomation.manager/testRunner.py">
+    <entry file="file://$PROJECT_DIR$/Raftaar/manager/testRunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.064150944">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
@@ -558,7 +566,7 @@
         <state vertical-scroll-proportion="0.088541664">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -576,7 +584,7 @@
         <state vertical-scroll-proportion="0.33333334">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -602,7 +610,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,18 +663,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py">
+    <entry file="file://$PROJECT_DIR$/Learning_Python/BreakStatement1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22193211">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Python/BreakStatement1.py">
+    <entry file="file://$PROJECT_DIR$/Learning_Python/Class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26631853">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.91122717">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webdriver_Scripts/chapter01/searchproducts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73368144">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
       </provider>
