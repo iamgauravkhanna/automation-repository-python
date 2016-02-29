@@ -1,6 +1,14 @@
-__author__ = 'Gaurav.Khanna'
+__author__ = 'Gaurav Khanna'
 
-from Raftaar.testRunner import testRunner
+from Raftaar.manager.testManager import TestManager
+from Raftaar.manager.testDriver import TestDriver
 
-TestCase001 = testRunner()
-TestCase001.runTestCase("BasicScript")
+TestDriver.DataDictionary["browser"] = "firefox"
+TestDriver.DataDictionary["testcaseid"] = "Selenium.RegisterUser()"
+TestDriver.DataDictionary["DBConnection"] = "QA_DB_001"
+TestDriver.DataDictionary["RemoteURL"] = "localhost"
+
+TestCase001 = TestManager()
+TestCase001.runTestCase("Selenium.RegisterUser()")
+
+print(TestDriver.DataDictionary)

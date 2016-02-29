@@ -1,0 +1,46 @@
+Raftaar ( Regression Automation Framework That Allow Artificial Runs )
+================================================================
+
+Components of Good Framework : 
+
+- Perfect Locators
+- Method Re-usability Logic
+- Best Reporting
+- Full Business Coverage
+- Configurable & Platform Independent
+
+v0.1
+=======
+
+Date : 1st - 31st Mar 2016
+
+- WebPage : Creation of WebPage class which contains all methods that support WebDriver commands 
+- Variables : Generating a global dictionary to store Variables
+- Flags : Introducing Flag - {skip} which will skip test step
+- Java : Development of Java Utilities to create random strings
+- Excel : Development of Excel Utilities to read excel file
+- XML : Development of XML Utilities to read XML file
+- TestNG : Using TestNG for reports, running suite using testNG.xml 
+- Others : Storing Test Cases in Hash Map, Highlight UI Elements.
+
+v0.2
+=======
+
+Date : 1st - 30th Apr 2016
+
+- Reporting - Storing logs in log file
+- DB : Development of DB Utilities to fetch/insert data into database
+- Others : Take Screenshots, Save HTML files
+- Selenium Grid - Provision to run test on Selenium Grid or on local
+- Iterations : Using Concept of Iteration to read data from data sheet
+- Methods : Concept of re-usability introduced by calling directly call another test case
+- Reporting - Creating customized HTML Reports
+- Jenkins : Run your test suite from Jenkins
+- Ant : Using Ant to build your automation project jar
+
+v0.3
+=======
+
+Date : 1st - 31st May 2016
+
+- Dashboard : User your Oracle Apex Dashboard to see live status of your test suite
