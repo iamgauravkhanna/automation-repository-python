@@ -2,7 +2,7 @@ __author__ = 'Gaurav.Khanna'
 
 from selenium import webdriver
 
-class TestManager:
+class TestDriver:
 
     DataDictionary={}
 
@@ -25,6 +25,6 @@ class TestManager:
         elif keyword == "openBrowser":
             print("open browser")
             self.driver.get("http://www.hcentive.com")
-            TestManager.DataDictionary["testDriverStatus"] = "SUCCESS"
+            TestDriver.DataDictionary["testDriverStatus"] = "SUCCESS"
         else:
             print("Hard Luck")

@@ -1,30 +1,34 @@
 __author__ = 'Gaurav.Khanna'
 
-from selenium import webdriver
+from Raftaar.manager.testManager import TestManager
 
 class TestDriver:
 
-    DataDictionary={}
+    def runTestCase(self,test_case_id):
 
-    def __init__(self):
-        self.driver = webdriver.Firefox()
-        self.driver.maximize_window()
-        self.driver.implicitly_wait(10)
-        print("Initializing Object")
+       print("Test Case ID : " + test_case_id)
 
-    def runTestStep(self,tcid, summary, description, keyword, locator, value, data, iterations, flags):
-        print("Running Test Case")
-        self.runTestStep1(keyword,data)
-        self.driver.quit()
+       testManagerObject = TestManager()
 
-    def runTestStep1(self,keyword,data):
-        if keyword == "click":
-            print ("click")
-        elif keyword == "type":
-            print("type")
-        elif keyword == "openBrowser":
-            print("open browser")
-            self.driver.get("http://www.hcentive.com")
-            TestDriver.DataDictionary["testDriverStatus"] = "SUCCESS"
-        else:
-            print("Hard Luck")
+       # tcid, summary, description, keyword, locator, value, data, iterations, flags):
+       #testManagerObject.runTestStep('click','click','click','openBrowser','click','click','http://wwww.google.com','click','click')
+
+       #TestManager.DataDictionary["testManagerStatus"] = "SUCCESS"
+
+       createTestCaseMap(self)
+       createTestDataMap(self)
+
+    def createTestCaseMap(self):
+        print("This is createTestCaseMap Method")
+
+    def createTestDataMap(self):
+        print("This is createTestData Method")
+
+    def getTestCaseDetails(self):
+        print("This is getTestCaseDetails Method")
+
+    def getTestDataDetails(self):
+        print("This is getTestDataDetails Method")
+
+    def executeTestCase(self):
+        print("This is executeTestCase Method")

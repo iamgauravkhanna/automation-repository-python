@@ -3,12 +3,15 @@ __author__ = 'Gaurav Khanna'
 from Raftaar.manager.testManager import TestManager
 from Raftaar.manager.testDriver import TestDriver
 
-TestDriver.DataDictionary["browser"] = "firefox"
-TestDriver.DataDictionary["testcaseid"] = "Selenium.RegisterUser()"
-TestDriver.DataDictionary["DBConnection"] = "QA_DB_001"
-TestDriver.DataDictionary["RemoteURL"] = "localhost"
+# Before Starting Test Case
+TestManager.DataDictionary["browser"] = "firefox"
+TestManager.DataDictionary["testcaseid"] = "Selenium.RegisterUser()"
+TestManager.DataDictionary["DBConnection"] = "QA_DB_001"
+TestManager.DataDictionary["RemoteURL"] = "localhost"
 
-TestCase001 = TestManager()
+# Test Case
+TestCase001 = TestDriver()
 TestCase001.runTestCase("Selenium.RegisterUser()")
 
-print(TestDriver.DataDictionary)
+# After Completing Test Case
+print(TestManager.DataDictionary)
