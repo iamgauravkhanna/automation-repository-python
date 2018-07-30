@@ -3,8 +3,6 @@ __author__ = 'Gaurav.Khanna'
 from selenium import webdriver
 from selenium.webdriver.support import select
 
-import
-
 # Initializing FireFox Driver
 webDriver = webdriver.Firefox()
 
