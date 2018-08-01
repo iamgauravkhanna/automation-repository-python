@@ -1,10 +1,10 @@
-__author__ = 'Gaurav.Khanna'
+__author__ = 'Gaurav Khanna'
 
 from selenium import webdriver
 from selenium.webdriver.support import select
 
 # Initializing FireFox Driver
-webDriver = webdriver.Firefox()
+webDriver = webdriver.Remote(command_executor="http://localhost:4444/wd/hub",desired_capabilities={"browserName": "firefox","platform": "WINDOWS"})
 
 # Assigning URL to variable 'baseUrl'
 baseUrl = "http://book.theautomatedtester.co.uk"
@@ -35,3 +35,6 @@ assert "Verify this button he here" in webDriver.find_element_by_id("verifybutto
 
 # Close Browser
 webDriver.close()
+
+#Printing Success Message
+print("Test Executed Successfully")
